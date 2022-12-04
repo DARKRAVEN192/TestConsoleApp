@@ -1,0 +1,7 @@
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojAssemblyReference.cache
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+D:\Progtime2022\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
